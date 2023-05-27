@@ -1,7 +1,7 @@
 <h1 align="center">Pokemon - React State Management</h1>
 
 <p align="center">
-  <img src="path/to/logo.png" alt="Project Logo" width="200">
+  <img src="/src/images/wallpaper-pokemon.png" alt="Project Logo" width="400">
 </p>
 
 <p align="center">Pokemon - React State Management</p>
