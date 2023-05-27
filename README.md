@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">Pokemon - React State Management</p>
+<p align='center'>
+  <img src='https://img.shields.io/github/license/anterojunior/react-custom-and-context-hook' />
+</p>
 
 ## 📖 Table of Contents
 - [About](#about)
