@@ -85,7 +85,7 @@ This project is licensed under the MIT. See the [LICENSE](./LICENSE) file for mo
 
 If you have any questions or want to connect with me, you can reach me through the following channels:
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antero-arcanjo)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antero-arcanjo)
 
 Feel free to reach out if you have any inquiries, feedback, or collaboration opportunities!
 
